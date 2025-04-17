@@ -67,3 +67,7 @@
     margin-left: 65%;
     bottom: 490px;
 }
+
+.container-hat-img img:hover {
+    width: 10px;
+}
