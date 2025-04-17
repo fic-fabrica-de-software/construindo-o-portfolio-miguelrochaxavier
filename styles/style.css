@@ -120,9 +120,11 @@ section {
     margin-left: 3px;
     width: 250px;
     height: 250px;
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(49, 49, 49); /*Cor para sections*/
     opacity: 0.2;
+    border-radius: 9px;
 }
+
 
 .square-technologias img {
     width: 100%;
