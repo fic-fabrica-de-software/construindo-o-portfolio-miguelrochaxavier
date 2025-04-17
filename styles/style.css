@@ -1,22 +1,26 @@
-body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow: hidden;
-    background-color: #121212;
-  }
-  
-  #network-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
-  
-  canvas {
-    display: block;
-    width: 100%;
-    height: 100%;
-  }
+.navbar-container li {
+    font-size: 18px;
+}
+
+.navbar-container ul {
+    margin-left: 25px;
+    margin-top: 25px;
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.navbar-container a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Khula';
+}
+
+#navbar-btn {
+    margin-left: 60%;
+}
+
+
+
+
+/*Navbar Container*/
