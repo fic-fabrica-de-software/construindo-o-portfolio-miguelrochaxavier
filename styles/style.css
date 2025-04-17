@@ -1,3 +1,5 @@
+/*Navbar Container*/
+
 .navbar-container li {
     font-size: 18px;
 }
@@ -20,7 +22,38 @@
     margin-left: 60%;
 }
 
+/*Center Container*/
 
 
+.container-text {
+    max-width: 1000px;
+    margin-top: 12%;
+    margin-left: 5%;
+    line-height: 0.8;
+}
 
-/*Navbar Container*/
+.mini-text-container h3 {
+    font-family: 'Khula';
+    font-weight: initial;
+    margin-left: 10px;
+    font-size: 26px;
+    color: white;
+    
+}
+
+.general-text-container h1 {
+    font-family: 'Khula';
+    font-weight: initial;
+    font-size: 150px;
+    color: white;
+}
+
+.sub-text-container span {
+    font-family: 'Khula';
+    font-weight: initial;
+    margin-left: 10px;
+    font-size: 25px;
+    color: white;
+    line-height: 1.5em;
+
+}
