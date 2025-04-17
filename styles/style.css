@@ -57,3 +57,13 @@
     line-height: 1.5em;
 
 }
+
+/*Img Hat Container*/
+
+.container-hat-img {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin-left: 65%;
+    bottom: 490px;
+}
