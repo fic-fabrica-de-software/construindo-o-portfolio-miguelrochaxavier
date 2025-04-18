@@ -147,3 +147,27 @@ section {
     background-color: rgb(49, 49, 49);
     border: solid white;
 }
+
+.section-name-projects {
+    display: flex;
+    gap: 10px;
+}
+
+.section-photo-project {
+    position: relative;
+    bottom: 10px;
+    width: 30px;
+    height: 30px;
+    margin-left: 32%;
+}
+
+.section-photo-project img {
+    width: 100%;
+}
+
+.section-name-project span {
+    position: relative;
+    top: 20px;
+    font-size: 18px;
+    margin-left: 15px;
+}
