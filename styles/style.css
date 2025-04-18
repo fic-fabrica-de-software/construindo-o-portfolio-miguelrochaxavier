@@ -14,11 +14,11 @@
 }
 
 .navbar-container ul {
-    margin-left: 25px;
+    margin-left: 30px;
     margin-top: 25px;
     list-style: none;
     display: flex;
-    gap: 40px;
+    gap: 20px;
 }
 
 .navbar-container a {
@@ -131,10 +131,13 @@ section {
     height: 250px;
     background-color: rgb(49, 49, 49);
     /*Cor para sections*/
-    opacity: 0.2;
+    opacity: 0.7;
     border-radius: 9px;
 }
 
+.square-technologias:hover {
+    opacity: 0.2;
+}
 
 .square-technologias img {
     width: 100%;
@@ -231,8 +234,12 @@ section {
     width: 150px;
     height: 150px;
     background-color: rgb(49, 49, 49);
-    opacity: 0.2;
     border-radius: 9px;
+    opacity: 0.7;
+}
+
+.section-skills:hover {
+    opacity: 0.2;
 }
 
 .section-skills img {
