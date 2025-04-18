@@ -1,4 +1,5 @@
 /*Navbar Container*/
+
 .navbar-container li {
     font-size: 18px;
 }
@@ -72,7 +73,6 @@
 /*Abas*/
 section {
     width: 100%;
-    /*background-color: red;*/
 }
 
 /*About me*/
@@ -130,4 +130,20 @@ section {
     width: 100%;
 }
 
-/*Effects*/
+/*Projects*/
+
+.section-main-projects {
+    margin-top: 13%;
+    width: 100%;
+    height: 520px;
+    display: flex;
+}
+
+.section-projects {
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 590px;
+    height: 250px;
+    background-color: rgb(49, 49, 49);
+    border: solid white;
+}
