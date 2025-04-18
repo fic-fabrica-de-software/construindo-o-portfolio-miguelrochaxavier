@@ -120,7 +120,8 @@ section {
     margin-left: 3px;
     width: 250px;
     height: 250px;
-    background-color: rgb(49, 49, 49); /*Cor para sections*/
+    background-color: rgb(49, 49, 49);
+    /*Cor para sections*/
     opacity: 0.2;
     border-radius: 9px;
 }
@@ -170,4 +171,31 @@ section {
     top: 20px;
     font-size: 18px;
     margin-left: 15px;
+}
+
+.section-desc-project {
+    position: relative;
+    bottom: 14px;
+    font-size: 23px;
+    margin-left: 15px;
+}
+
+.desc-project {
+    position: relative;
+    width: 550px;
+    height: 100px;
+    bottom: 32px;
+    font-size: 15px;
+    
+    
+}
+
+.view-project {
+    position: relative;
+    bottom: 13px;    
+}
+
+.view-project a {
+    color: white;
+    font-size: 18px;
 }
