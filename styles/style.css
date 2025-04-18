@@ -191,12 +191,16 @@ section {
 
 .desc-project {
     position: relative;
-    width: 550px;
     height: 100px;
     bottom: 32px;
     font-size: 15px;
-    
-    
+    text-align: left;
+}
+
+.desc-project span {
+    right: 13px;
+    display: flex;
+    text-align: left;
 }
 
 .view-project {
