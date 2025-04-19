@@ -248,7 +248,7 @@ section {
     margin-top: 5%;
     width: 150px;
     height: 150px;
-    background-color: rgb(49, 49, 49);
+    background-color: rgba(33,36,38,255);
     border-radius: 9px;
     opacity: 0.7;
 }
