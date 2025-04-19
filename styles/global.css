@@ -4,7 +4,9 @@ html {
   padding: 0;
   height: 100%;
   font-family: 'Khula';
+  color: white;
   scroll-behavior: smooth;
+  background-color: rgb(29, 29, 29);
   
 }
 
