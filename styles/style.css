@@ -233,6 +233,11 @@ section {
     font-size: 18px;
 }
 
+#logo-mysql {
+    position: relative;
+    left: 20px;
+}
+
 /*Hard Skills*/
 
 .section-main-skills {
