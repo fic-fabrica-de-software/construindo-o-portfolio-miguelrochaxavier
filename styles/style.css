@@ -171,7 +171,6 @@ section {
     width: 590px;
     height: 250px;
     background-color: rgba(33,36,38,255);
-    border: solid 1px white;
 }
 
 .section-projects:hover {
